@@ -1,0 +1,36 @@
+
+.galeria{
+    padding-top: 20px;
+}
+
+.input-group{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+#tituloMain{
+color: rgba(157, 205, 61, 0.854);
+}
+
+.botonenviar {
+    padding: 15px 30px;
+    background: #b4531698;
+    border: 0;
+    outline: none;
+    cursor: pointer;
+    font-size: 22px;
+    border-radius: 30px;
+
+}
+
+
+
+
+#test {
+    color: #1f1a1a; 
+    font-family: "Helvetica Neue",Arial,sans-serif; 
+    font-size: 16px; 
+    font-weight: 300; 
+    line-height: 1.5625; 
+    margin-bottom: 15px;
+}
+

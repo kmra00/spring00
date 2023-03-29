@@ -1,0 +1,95 @@
+{
+    "productos": [
+        {
+          "tipo":"polera",
+          "talla":"S",
+          "sexo": "F",
+          "precio":899
+        },
+        {
+            "tipo":"polera",
+            "talla":"M",
+            "sexo": "F",
+            "precio":999
+          },
+          {
+            "tipo":"polera",
+            "talla":"L",
+            "sexo": "F",
+            "precio":1099
+          },
+          {
+            "tipo":"polera",
+            "talla":"XL",
+            "sexo": "F",
+            "precio":1199
+          },
+          {
+            "tipo":"polera",
+            "talla":"XXL",
+            "sexo": "F",
+            "precio":999999
+          },
+          {
+            "tipo":"poleron",
+            "talla":"S",
+            "sexo": "F",
+            "precio":2222
+          },
+          {
+            "tipo":"poleron",
+            "talla":"M",
+            "sexo": "F",
+            "precio":3333
+          },
+          {
+            "tipo":"poleron",
+            "talla":"L",
+            "sexo": "F",
+            "precio":4444
+          },
+          {
+            "tipo":"poleron",
+            "talla":"XL",
+            "sexo": "F",
+            "precio":5555
+          },
+          {
+            "tipo":"poleron",
+            "talla":"XXL",
+            "sexo": "F",
+            "precio":6666
+          },
+          {
+            "tipo":"pantalon",
+            "talla":"S",
+            "sexo": "F",
+            "precio":3333
+          },
+          {
+            "tipo":"pantalon",
+            "talla":"M",
+            "sexo": "F",
+            "precio":4444
+          },
+          {
+            "tipo":"pantalon",
+            "talla":"L",
+            "sexo": "F",
+            "precio":5555
+          },
+          {
+            "tipo":"pantalon",
+            "talla":"XL",
+            "sexo": "F",
+            "precio":6666
+          },
+          {
+            "tipo":"pantalon",
+            "talla":"XXL",
+            "sexo": "F",
+            "precio":7777
+          }
+          
+      ]
+}
